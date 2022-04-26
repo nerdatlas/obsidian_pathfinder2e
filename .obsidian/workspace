@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "a4b134cd01da7070",
+    "type": "split",
+    "children": [
+      {
+        "id": "8be9771d2e92b320",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Changelog.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "088e8d3df7e6a99d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4530fd032cf7b8e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6e822f97e35b3e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7fcba987f5f2fa1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56204a41b5516355",
+    "type": "split",
+    "children": [
+      {
+        "id": "20dfc70043450f37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e2cc8b1adb86cf4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Changelog.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8be9771d2e92b320",
+  "lastOpenFiles": [
+    "Changelog.md",
+    "LICENSE.md",
+    "README.md",
+    "PE2 - Task List.md",
+    "201 Pathfinder 2e.md",
+    "Conditions/PE2 - Encumbered.md"
+  ]
+}
